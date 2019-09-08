@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Midtern 07600646</string>
+    <string name="loing_to_facebook">Loing To Facebook</string>
+    <string name="pass">Password</string>
+    <string name="log">login</string>
+    <string name="us">Username</string>
+    <string name="ratchanon_rodsienglam" translatable="false">Ratchanon Rodsienglam</string>
+    <string name="add_to_story">Add to Story</string>
+    <string name="view_as">View As</string>
+    <string name="mor">More</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="goes_to">Goes to</string>
+    <string name="lives_in">Lives in</string>
+    <string name="fro">From</string>
+</resources>

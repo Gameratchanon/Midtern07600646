@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Midtern 07600646</string>
+    <string name="log">ลงชื่อเข้าใช้</string>
+    <string name="loing_to_facebook">เข้าใช้งานบัญชีของคุณ</string>
+    <string name="pass">รหัสผ่าน</string>
+    <string name="us">ชื่อผู้ใช้งาน</string>
+    <string name="add_to_story">เพิ่มในสตอรี่</string>
+    <string name="lives_in">ดูในมุมมองของ</string>
+    <string name="edit_profile">เเก้ไขโปรไฟล์</string>
+    <string name="mor">เพิ่มเติม</string>
+    <string name="fro">จาก</string>
+    <string name="goes_to">เคยศึกษาที่</string>
+    <string name="view_as">อาศัยอยู่ที่</string>
+</resources>
